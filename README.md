@@ -1,6 +1,13 @@
-## Hi there 👋
-# 💫 About Me:
-My name is Akshit Jain. Recent BCom undergraduate at SGND Khalsa College, University of Delhi (CGPA 8.14/10), with hands-on experience in data analysis, business reporting, and process improvement. Proficient in Excel, Power BI, Tableau, and SQL. Open to entry-level roles in Data/Business Analytics and Operations.<br>I like to listen the music and hobby of reading novels and binge watching movies and series<br>
+## 👋 Hi there, I am so glad you're here!
+
+Welcome to my corner of GitHub! 
+I am passionate about growing in carrier, picking up new tech skills and challanges, making life little more overwhelming ( with lots of fun). Here you will find: 
+🛠️ Projects I’m building or contributing to
+📚 Things I’ve learned while juggling work, deadlines, and debugging
+🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
+
+Let’s connect, learn, and grow together—one repo at a time.
+You bring the snacks, I’ll bring the code 🍪💻
 
 
 ## 🌐 Socials:
