@@ -1,13 +1,13 @@
 ## 👋 Hi there, I am so glad you're here!
 
 Welcome to my corner of GitHub! 
-I am passionate about growing in carrier, picking up new tech skills and challanges, making life little more overwhelming ( with lots of fun). Here you will find: 
+I am passionate about growing in carrier, picking up new tech skills and challanges, making life little more overwhelming ( with lots of fun). Here you will find: <br>
 <br>🛠️ Projects I’m building or contributing to
-📚 Things I’ve learned while juggling work, deadlines, and debugging
-🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
+<br>📚 Things I’ve learned while juggling work, deadlines, and debugging
+<br>🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle<br>
 
-Let’s connect, learn, and grow together—one repo at a time.
-You bring the snacks, I’ll bring the code 🍪💻
+<br>Let’s connect, learn, and grow together—one repo at a time.
+<br>You bring the snacks, I’ll bring the code 🍪💻
 
 
 ## 🌐 Socials:
