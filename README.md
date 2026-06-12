@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! 
 I am passionate about growing in carrier, picking up new tech skills and challanges, making life little more overwhelming ( with lots of fun). Here you will find: 
-🛠️ Projects I’m building or contributing to
+<br>🛠️ Projects I’m building or contributing to
 📚 Things I’ve learned while juggling work, deadlines, and debugging
 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
 
